@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1204 112" width="1204" height="112" fill="none">
+  <g fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+    <!-- M (Heavy, slanted right leg) -->
+    <path d="M2 110V2H36L56 62L76 2H111L74 110H49L31 46V110H2Z" />
+    <!-- I (Slanted bar) -->
+    <path d="M120 2H134L96 110H82L120 2Z" />
+    <!-- N (Slanted left leg, vertical right leg) -->
+    <path d="M104 110L142 2H172L210 62V2H241V110H211L163 43L135 110H104Z" />
+    <!-- D (Heavy) -->
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M253 2H302C337 2 357 22 357 56C357 90 337 110 302 110H253V2ZM286 30V82H301C316 82 324 73 324 56C324 39 316 30 301 30H286Z" />
+    <!-- O (Medium-Bold) -->
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M412 2C442 2 463 24 463 56C463 88 442 110 412 110C382 110 361 88 361 56C361 24 382 2 412 2ZM412 23C394 23 383.5 36 383.5 56C383.5 76 394 89 412 89C430 89 440.5 76 440.5 56C440.5 36 430 23 412 23Z" />
+    <!-- V (Medium-Bold) -->
+    <path d="M465 2H488L512 78L536 2H559L523 110H501L465 2Z" />
+    <!-- E (Medium-Bold) -->
+    <path d="M568 2H642V22H590V45H635V65H590V90H644V110H568V2Z" />
+    <!-- R (Medium-Bold) -->
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M654 2H705C729 2 743 15 743 35C743 49 734 60 719 65L745 110H720L697 67H676V110H654V2ZM676 21V48H702C715 48 721.5 43 721.5 34.5C721.5 26 715 21 702 21H676Z" />
+    <!-- M (Heavy, vertical legs) -->
+    <path d="M753 110V2H789L813 62L837 2H873V110H843V45L821 110H805L783 45V110H753Z" />
+    <!-- E (Heavy) -->
+    <path d="M886 2H970V27H918V43H963V67H918V85H972V110H886V2Z" />
+    <!-- D (Heavy, sliced bottom-right parallel to slanted I) -->
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M982 2H1032C1065 2 1084 21 1084 51C1084 58.5 1082.5 65.5 1079.5 72L1066 110H982V2ZM1016 30V82H1031C1045.5 82 1053 73 1053 56C1053 39 1045.5 30 1031 30H1016Z" />
+    <!-- I (Slanted bar) -->
+    <path d="M1108 2H1122L1084 110H1070L1108 2Z" />
+    <!-- A (Heavy, slanted left leg) -->
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1129 2H1169L1202 110H1170L1164 90H1129L1122 110H1091L1129 2ZM1136 65H1156.5L1147 30L1136 65Z" />
+  </g>
+</svg>

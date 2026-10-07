@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Instrument Serif", "Playfair Display", Georgia, serif;
+  --font-display: "Instrument Serif", "Playfair Display", Georgia, serif;
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+@layer base {
+  html,
+  body,
+  #root {
+    min-height: 100dvh;
+    height: auto;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    background-color: #151933;
+    color: #FFFFFF;
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  @media (min-width: 1024px) {
+    html,
+    body,
+    #root {
+      height: 100dvh;
+      max-height: 100dvh;
+      overflow: hidden;
+    }
+  }
+}
+
+.bg-brand-sunrise {
+  background-image: linear-gradient(
+    to bottom,
+    #151933 0%,
+    #2A2947 34%,
+    #5C4A56 66%,
+    #A8885B 86%,
+    #D9AC50 100%
+  );
+}
+
+.text-balance {
+  text-wrap: balance;
+}

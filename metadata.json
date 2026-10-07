@@ -1,0 +1,8 @@
+{
+  "name": "Mind Over Media",
+  "description": "Strategic media oversight, brand equity architecture, and narrative governance for media, entertainment, and consumer brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
